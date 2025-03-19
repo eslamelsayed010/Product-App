@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_product">ProductActivity</string>
+    <string name="title_activity_favorite">FavoriteActivity</string>
+    <string name="title_activity_search">SearchActivity</string>
+</resources>
